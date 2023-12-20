@@ -9,6 +9,7 @@
 Добавили текст в новой 
 ветке Newbranch
 
+<<<<<<< HEAD
 Добавил локальный конфликт
 
 # Это репозиторий для обучения pull request
@@ -53,3 +54,6 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 Изменения 1
 Изменения2 
+=======
+Разрешаем конфликт текст в браузере
+>>>>>>> 44043fb695db99468bc11ffe7b422d6efed88d44
